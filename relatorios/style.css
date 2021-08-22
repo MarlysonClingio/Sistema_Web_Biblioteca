@@ -1,0 +1,85 @@
+body {
+margin: 0.5cm;
+padding:2px;
+font: 15pt Georgia, "Verdana", Times, serif;
+color: #000;
+}
+
+img {
+max-width: 100%;
+}
+
+h1{
+  font-size: 24pt;
+  color:#060;
+}
+
+h2{
+  font-size: 18pt;
+  font-family:calibri,helvetica,arial,sans-serif;
+  line-height: 0.1em;
+  padding:0;
+}
+
+h3{
+  font-size: 12pt;
+  font-family:calibri,helvetica,arial,sans-serif;
+  line-height: 0.1em;  
+  padding:0;
+}
+
+
+table,td
+{
+	border               : 1px solid #000;
+	border-collapse      : collapse;
+    font                 : small/1.5 "Tahoma", "Bitstream Vera Sans", Verdana, Helvetica, sans-serif;
+	
+}
+table
+{
+	border                :1px solid #000;
+}
+
+thead th,
+tbody th
+{
+    color                 : #000;  
+	padding               : 5px 10px;
+    border-top         	  : 2px solid #000;
+	border-bottom         : 2px solid #000;
+	border-left           : 1px solid #000;
+	border-right          : 1px solid #000;
+}
+
+tbody th
+{
+  background            : #fff;
+  border-top            : 2px solid #000; 
+  text-align            : left;
+  font-weight           : normal;
+}
+
+tbody tr td
+{
+	padding               : 2px 10px; 
+	border-top            : 1px solid #000; 
+    color                 : #000;
+	border: 				1.2px solid #C0C0C0;
+}
+
+/*zebrar tabela*/
+table tbody tr:nth-child(2n+1) {
+		background: 	#F0F0F0;
+}
+
+tfoot td,
+tfoot th
+{
+  border-left           : none;
+  border-top            : 2px solid #000;
+  padding               : 4px;
+  background            : #FFF;
+  color                 : #0;
+}
+
