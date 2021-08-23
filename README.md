@@ -29,3 +29,4 @@ Projeto final realizado na disciplina de Laboratório Web, do Curso de Analise e
 <h3>Observações</h3>
 •	Projeto realizado apenas para se ter um conhecimento básico do funcionamento de um sistema web e em prol da entrega como nota final da disciplina mencionada, sem prazo para continuidade.<br>
 •	Projeto realizado em 2020<br>
+•	Projeto feito com linguagem de programação PHP. Por mais que apareça a linguagem javascript como a mais usada no Projeto, isso só ocorre devido a identificação dos Templates inseridos como material de uso e download, não sendo aplicados diretamente no projeto<br>
