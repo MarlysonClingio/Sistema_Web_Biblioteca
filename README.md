@@ -1,10 +1,9 @@
 <h1>Sistema Web Biblioteca</h1>
 
 <h3>Objetivo</h3>
-Projeto final realizado na disciplina de Laboratório Web, do Curso de Analise e desenvolvimento de sistemas da faculdade FADAM, com a orientação do professor. Conhecimentos obtidos:<br>
-<br>•	Linguagem de Programação PHP e Javascript<br>
+Projeto final realizado na disciplina de Laboratório Web do Curso de Análise e desenvolvimento de sistemas da faculdade FADAM, com a orientação do professor. Conhecimentos obtidos:<br>
+<br>•	Linguagem de Programação PHP<br>
 •	Linguagem de marcação HTML<br>
-•	Linguagem de Estilização CSS<br>
 •	Bootstrap<br>
 •	Orientação a Objetos<br>
 •	Tratamento de exceções<br>
@@ -15,8 +14,7 @@ Projeto final realizado na disciplina de Laboratório Web, do Curso de Analise e
 •	Design Patterns<br>
 •	Conhecimentos em Front e Back end<br>
 •	User Experience<br>
-•	Conexões com banco de dados e como funciona a arquitetura Web<br>
-•	Como realizar um CRUD<br>
+•	Conexão com banco de dados, CRUD e arquitetura Web<br>
 
 
 <h3>Ferramentas e tecnologias utilizadas</h3>
@@ -29,4 +27,5 @@ Projeto final realizado na disciplina de Laboratório Web, do Curso de Analise e
 <h3>Observações</h3>
 •	Projeto realizado apenas para se ter um conhecimento básico do funcionamento de um sistema web e em prol da entrega como nota final da disciplina mencionada, sem prazo para continuidade.<br>
 •	Projeto realizado em 2020<br>
-•	Projeto feito com linguagem de programação PHP. Por mais que apareça a linguagem javascript como a mais usada no Projeto, isso só ocorre devido a identificação dos Templates inseridos como material de uso e download, não sendo aplicados diretamente no projeto<br>
+•	Projeto feito com linguagem de programação PHP.<br>
+• Por mais que apareça a linguagem javascript como a mais usada no Projeto, isso só ocorre devido a identificação dos Templates inseridos como material de apoio para download pelo GitHub, não sendo aplicados diretamente no projeto<br>
