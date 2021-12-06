@@ -22,8 +22,3 @@ Projeto final realizado na disciplina de Laboratório Web do Curso de Análise e
 •	Bootstrap 4.3.1<br>
 •	EasyPHP Devserver 17.0 (Contendo tudo para a instalação do servidor PHP)<br>
 •	vcredist 64X<br>
-
-
-<h3>Observações</h3>
-•	Projeto realizado apenas para se ter um conhecimento básico do funcionamento de um sistema web e em prol da entrega como nota final da disciplina mencionada, sem prazo para continuidade.<br>
-•	Projeto realizado em 2020<br>
